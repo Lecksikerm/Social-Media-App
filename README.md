@@ -90,3 +90,6 @@ GET	/api/posts/:id	Get a post
 PUT	/api/posts/:id/like	Like / Unlike post
 GET	/api/posts/timeline/:userId	Get timeline posts
 GET /api/posts/timeline/all Get all posts
+
+# Deployment URL
+https://social-media-app-vugq.onrender.com
